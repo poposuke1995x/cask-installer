@@ -1,0 +1,12 @@
+discord
+docker
+google-chrome
+google-japanese-ime
+insomnia
+insomnia-designer
+iterm2
+jetbrains-toolbox
+middleclick
+slack
+tableplus
+visual-studio-code
